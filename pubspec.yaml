@@ -1,0 +1,11 @@
+name: dart_exercises
+description: "Week 2 Dart exercises for Mobile Application Development."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.14.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
